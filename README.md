@@ -3,9 +3,9 @@
 This is a curated list of awesome AI libraries which are efficiently implemented, allowing developers to train neural networks quickly.
 
 
-## Libraries
+## Contents
 - [Awesome Efficient AI Libs | ](#awesome-efficient-ai-libs--)
-  - [Libraries](#libraries)
+  - [Contents](#contents)
   - [Computer Vision](#computer-vision)
   - [Natural Language Processing](#natural-language-processing)
 
