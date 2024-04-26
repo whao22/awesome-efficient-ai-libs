@@ -11,10 +11,11 @@ This is a curated list of awesome AI libraries which are efficiently implemented
 
 
 ## Computer Vision
-- [PET-NeuS/ops](https://github.com/yiqun-wang/PET-NeuS/tree/main/third_party/ops) - A fast and efficient implementation of differentiable bias-activations function and 3D grid sampling in CUDA.
+- [Shape As Points](https://github.com/autonomousvision/shape_as_points) - Shape As Points: A Differentiable Poisson Solver for 3D Shape Reconstruction.
+- [PET-NeuS/ops](https://github.com/yiqun-wang/PET-NeuS/tree/main/third_party/ops) - Differentiable bias-activations function and 3D grid sampling in CUDA.
 - [SelfReconCode/MCGpu](https://github.com/jby1993/SelfReconCode/tree/main/MCGpu) - CUDA for differentiable marching cube algorithm.
 - [SelfReconCode/MCAcc](https://github.com/jby1993/SelfReconCode/tree/main/MCAcc) - A fast and efficient implementation in CUDA for differentiable 3D grid sampling algorithm.
-- [SelfReconCode/FastMinv](https://github.com/jby1993/SelfReconCode/tree/main/FastMinv) - A fast and efficient algorithm in CUDA for differentiable inverting 3x3 matrix.
+- [SelfReconCode/FastMinv](https://github.com/jby1993/SelfReconCode/tree/main/FastMinv) - Efficient algorithm in CUDA for differentiable inverting 3x3 matrix.
 - [gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting.
 - [diff-gaussian-rasterization](https://github.com/graphdeco-inria/diff-gaussian-rasterization) - Used as the rasterization engine for the paper [3DGS project](https://github.com/graphdeco-inria/gaussian-splatting).
 - [simple-knn](https://gitlab.inria.fr/bkerbl/simple-knn) - Simple KNN implementation in CUDA used in the [3DGS project](https://github.com/graphdeco-inria/gaussian-splatting).
