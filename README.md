@@ -11,6 +11,8 @@ This is a curated list of awesome AI libraries which are efficiently implemented
 
 
 ## Computer Vision
+- [gaustudio](https://github.com/GAP-LAB-CUHK-SZ/gaustudio) - GauStudio is a modular framework that supports and accelerates research and development in the rapidly advancing field of 3D Gaussian Splatting (3DGS) and its diverse applications.
+- [gsplat](https://github.com/nerfstudio-project/gsplat) - This library contains the neccessary components for efficient 3D to 2D projection, sorting, and alpha compositing of gaussians and their associated backward passes for inverse rendering.
 - [Differentiable Iso-Surface Extraction](https://github.com/SarahWeiii/diso) - This repository consists of a variety of differentiable iso-surface extraction algorithms implemented in cuda.
 - [Shape As Points](https://github.com/autonomousvision/shape_as_points) - Shape As Points: A Differentiable Poisson Solver for 3D Shape Reconstruction.
 - [PET-NeuS/ops](https://github.com/yiqun-wang/PET-NeuS/tree/main/third_party/ops) - Differentiable bias-activations function and 3D grid sampling in CUDA.
