@@ -11,6 +11,8 @@ This is a curated list of awesome AI libraries which are efficiently implemented
 
 
 ## Computer Vision
+- [nerfacc_ray_resampling](https://github.com/taconite/IntrinsicAvatar/tree/main/lib/nerfacc) -This is the modified version of nerfacc-0.3.0's ray_resampling.
+- [torch_pbr](https://github.com/taconite/torch_pbr/tree/ffb50b95a91a5b8b07f054858a8a009078f8957a) -Torch PBR is a light-weight library for differentiable PBR written purely in Python/PyTorch.
 - [gaustudio](https://github.com/GAP-LAB-CUHK-SZ/gaustudio) - GauStudio is a modular framework that supports and accelerates research and development in the rapidly advancing field of 3D Gaussian Splatting (3DGS) and its diverse applications.
 - [gsplat](https://github.com/nerfstudio-project/gsplat) - This library contains the neccessary components for efficient 3D to 2D projection, sorting, and alpha compositing of gaussians and their associated backward passes for inverse rendering.
 - [Differentiable Iso-Surface Extraction](https://github.com/SarahWeiii/diso) - This repository consists of a variety of differentiable iso-surface extraction algorithms implemented in cuda.
@@ -21,6 +23,7 @@ This is a curated list of awesome AI libraries which are efficiently implemented
 - [SelfReconCode/FastMinv](https://github.com/jby1993/SelfReconCode/tree/main/FastMinv) - Efficient algorithm in CUDA for differentiable inverting 3x3 matrix.
 - [gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting.
 - [diff-gaussian-rasterization](https://github.com/graphdeco-inria/diff-gaussian-rasterization) - Used as the rasterization engine for the paper [3DGS project](https://github.com/graphdeco-inria/gaussian-splatting).
+- [pytorch3d_knn_cuda](https://github.com/taconite/IntrinsicAvatar/tree/main/lib/pytorch3d) - pytorch3d_knn_cuda.
 - [simple-knn](https://gitlab.inria.fr/bkerbl/simple-knn) - Simple KNN implementation in CUDA used in the [3DGS project](https://github.com/graphdeco-inria/gaussian-splatting).
 <!-- - [fastai](https://github.com/fastai/fastai) - The fastai deep learning library, easy to use and fast.
 - [fastcore](https://github.com/fastai/fastcore) - A fast and easy-to-use foundation library for deep learning and AI research. -->
