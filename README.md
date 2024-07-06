@@ -11,6 +11,8 @@ This is a curated list of awesome AI libraries which are efficiently implemented
 
 
 ## Computer Vision
+- [GS-IR/diff-gaussian-rasterization](https://github.com/lzhnb/GS-IR/tree/main/submodules/diff-gaussian-rasterization). - Customed rasterization algorithm for 3D Gaussian splatting, which could be used to inverse render the 3D scene.
+- [r3dg-rasterization](https://github.com/NJU-3DV/Relightable3DGaussian/tree/main/r3dg-rasterization) - Customed rasterization algorithm for 3D Gaussian splatting, which could be used to inverse render the 3D scene.
 - [nerfacc_ray_resampling](https://github.com/taconite/IntrinsicAvatar/tree/main/lib/nerfacc) -This is the modified version of nerfacc-0.3.0's ray_resampling.
 - [torch_pbr](https://github.com/taconite/torch_pbr/tree/ffb50b95a91a5b8b07f054858a8a009078f8957a) -Torch PBR is a light-weight library for differentiable PBR written purely in Python/PyTorch.
 - [gaustudio](https://github.com/GAP-LAB-CUHK-SZ/gaustudio) - GauStudio is a modular framework that supports and accelerates research and development in the rapidly advancing field of 3D Gaussian Splatting (3DGS) and its diverse applications.
