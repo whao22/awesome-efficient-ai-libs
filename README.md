@@ -11,6 +11,7 @@ This is a curated list of awesome AI libraries which are efficiently implemented
 
 
 ## Computer Vision
+- [kaolin](https://github.com/NVIDIAGameWorks/kaolin) - A PyTorch Library for Accelerating 3D Deep Learning Research.
 - [RaDe-GS/diff-gaussian-rasterization](https://github.com/BaowenZ/RaDe-GS/tree/main/submodules/diff-gaussian-rasterization). - This is a modified version to support depth & alpha rendering (both forward and backward) which could render the normal and depth map of the 3D scene.
 - [GS-IR/diff-gaussian-rasterization](https://github.com/lzhnb/GS-IR/tree/main/submodules/diff-gaussian-rasterization). - Customed rasterization algorithm for 3D Gaussian splatting, which could be used to inverse render the 3D scene.
 - [r3dg-rasterization](https://github.com/NJU-3DV/Relightable3DGaussian/tree/main/r3dg-rasterization) - Customed rasterization algorithm for 3D Gaussian splatting, which could be used to inverse render the 3D scene.
